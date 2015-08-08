@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<book xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="test.xsd">
+  <author>
+    <name>Hong Gil-dong</name>
+    <address>Korea</address>
+  </author>
+  <chapter_list>
+    <chapter>
+      <chapter_title>The First Chapter</chapter_title>
+      <chapter_sub_title></chapter_sub_title>
+      <page_number>10</page_number>
+      <comment_list>
+        <comment name="zelon" content="This is good" from="alading" />
+        <comment name="mk" content="This is not good" from="yes23" />
+      </comment_list>
+    </chapter>
+  </chapter_list>
+</book>
