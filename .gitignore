@@ -1,2 +1,4 @@
-xml-xsd-validator/xml-xsd-validator/obj/
-xml-xsd-validator/xml-xsd-validator/bin/
+.vs/
+xml-xsd-validator/obj/
+xml-xsd-validator/bin/
+*.swp
